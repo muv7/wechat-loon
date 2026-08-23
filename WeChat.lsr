@@ -61,3 +61,8 @@ DOMAIN-SUFFIX,yun-hl.3g.qq.com
 # ----- HTTP(S) User-Agent fallback -----
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
+
+# ----- WeChat UDP / direct IP fallback -----
+IP-CIDR,111.30.160.0/20,no-resolve
+IP-CIDR,112.53.11.0/24,no-resolve
+IP-CIDR,112.53.20.0/24,no-resolve
