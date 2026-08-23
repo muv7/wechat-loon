@@ -1,0 +1,31 @@
+# NAME: DouYin
+# DESC: DouYin direct rules - self maintained
+# PURPOSE: Prioritize direct matching for DouYin core, image, static and video traffic
+
+# ===== 抖音核心 =====
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,pstatp.com
+
+# ===== 图片 / 静态资源 =====
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,bytegecko.com
+
+# ===== 视频 / CDN =====
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,idouyinvod.com
+
+# ===== 抖音关联内容服务 =====
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,toutiao.com
+
+# ===== 特定调度 / A-B Test =====
+DOMAIN,v5-dy-o-abtest.zjcdn.com
