@@ -22,6 +22,16 @@ DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,idouyinvod.com
 
+# ===== 字节公共接口 / CDN 补充 =====
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytecdn.com
+DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,byteeffecttos.com
+DOMAIN-SUFFIX,bytedance.com
+
+
+
 # ===== 抖音关联内容服务 =====
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
